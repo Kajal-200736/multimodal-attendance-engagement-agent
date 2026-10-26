@@ -1,10 +1,10 @@
 # MULTIMODAL ATTENDANCE AND ENGAGEMENT AGENT
 ## Project Report
 
-**Submitted by:** [Your Name]  
-**Roll Number:** [Your Roll Number]  
-**Department:** [Your Department]  
-**Institution:** [College Name]  
+**Submitted by:** Kajal 
+**Roll Number:** 251036071032  
+**Department:** Engineering and Technology 
+**Institution:** Gurugram University 
 **Academic Year:** 2026–2027
 
 ## 1. Abstract
